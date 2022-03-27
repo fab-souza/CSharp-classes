@@ -4,6 +4,6 @@ class Program {
   public static void Main (string[] args) {
     Console.WriteLine("Executando código n\n");
     numero = int.Parse(Console.ReadLine());
-	  Console.WriteLine("O valor do número é: " + numero + ".");
+    Console.WriteLine("O valor do número é: " + numero + ".");
   }
 }
